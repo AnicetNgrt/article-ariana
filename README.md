@@ -174,8 +174,7 @@ I won't go too much into the details because it gets really fucked up, and is a 
 
 Obviously went for strategy 1) and it is going fine so far. Architecture-wise it looks like that:
 
-![ariana drawio (1)](https://github.com/user-attachments/assets/13e2b016-a442-44a5-898e-1a4581392de7)
-
+![ariana drawio (2)](https://github.com/user-attachments/assets/982a7ba6-0baa-41a1-8a90-ebe00873d64b)
 
 And here is how some Python code, beautifully spaghettified by the debugger-compiler looks like:
 
