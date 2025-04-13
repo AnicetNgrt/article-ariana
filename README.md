@@ -23,7 +23,7 @@ So here became my idea for a **New Fun Debugger**. It shall be:
 
 That's why for the past 2.5 months I've been obsessively working on some sort of new-age "time-travel" debugger for Python, JS & TS, written in Rust, that strives to do all the above. And I felt like folks on Hacker News would enjoy my thought process designing it and building it.
 
-# No really, why the fuck are you to re-invent the debugger
+# No really, who the fuck are you to re-invent the debugger
 
 I started coding as a teenager in 2015, tinkered with many high-level languages like TI-BASIC, JS, Python, you know, the good old days... As I did, I slowly got hooked by typed languages: Java, TS, C#, low-level programming: C, C++, Assembly (less than the lethal quantity), and even did a detour to crazy land with Elixir, Go, Rust and GLSL (that's the moment I started seeing things).
 
